@@ -30,3 +30,13 @@ ___
 At this stage, I am gaining knowledge, no work experience .
 
 ___
+## Education.
+
+
+
+Higher education: Saratov State University.<br>
+       Department of Geology .
+
+___
+
+_I am learning ~~I am learning~~ English ._     
