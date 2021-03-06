@@ -23,3 +23,10 @@ Get the profession of a programmer.<br>
 Working in a team.
 
 ___
+## My skils.
+
+
+
+At this stage, I am gaining knowledge, no work experience .
+
+___
