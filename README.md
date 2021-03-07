@@ -1,1 +1,1 @@
-https://aleksov72.github.io/rsschool-cv/cv.md
+https://aleksov72.github.io/rsschool-cv/
