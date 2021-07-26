@@ -3,6 +3,9 @@ html,body{
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #dfdfdf;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 14px;
 }
 .header{
     width: 1200px; 
@@ -32,10 +35,27 @@ html,body{
 .article__info{
     margin: 0 auto;
 }
-.footer__end{
+.english-skills{
     width: 1200px; 
     position: relative;
     margin: 0 auto;
     top: 0;
-    left: 30px;
+}
+
+.footer{
+    width: 1200px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.info__logo li{
+    list-style:none;
+    display: inline-block;
+    width: 78px;
+    padding: 0 15px;
+    font-weight: 700;
+}
+.info__logo a{
+    text-decoration: none;
+color: red;
 }
